@@ -9,9 +9,16 @@
 # Text Styles
 
 ## Italic 
-*Italic Data here*
+*Italic Data here***
 
 ## Bold Text
 **Bold data here**
+
+## Iatalic
+***Italic***
+
+
+## Links in readme file
+[click here]("www.google.com")
 
 
