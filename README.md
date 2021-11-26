@@ -21,7 +21,7 @@
 ## Links in readme file
 [click here](https://www.aec.edu.in/)
 
-[click here](www.bing.com)
+[click here](https://www.google.com/)
 
 ## Image
 ![Kakarot](goku.jpg)
