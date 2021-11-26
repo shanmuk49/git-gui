@@ -6,7 +6,7 @@
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
-# Text Styles
+# Text Styles 
 
 ## Italic 
 *Italic Data here***
