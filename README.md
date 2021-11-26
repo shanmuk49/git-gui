@@ -20,5 +20,7 @@
 
 ## Links in readme file
 [click here]("www.google.com")
+[click here]("www.bing.com")
+
 
 
