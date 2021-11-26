@@ -19,6 +19,6 @@
 
 
 ## Links in readme file
-[click here]("https://www.google.com/")
+[click here]("www.google.com")
 
 
