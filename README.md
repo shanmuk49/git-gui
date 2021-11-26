@@ -19,7 +19,7 @@
 
 
 ## Links in readme file
-[click here](www.google.com)
+[click here]("https://www.aec.edu.in/")
 
 [click here](www.bing.com)
 
