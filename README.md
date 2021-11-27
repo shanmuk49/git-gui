@@ -26,4 +26,20 @@
 ## Image
 ![Kakarot](goku.jpg)
 
+|s.no|Name|branch|Roll|
+|----|----|------|----|
+|1|bharat|cse|D0|
+|2|sunil|cse|G7|
 
+## ordered List
+
+1. Bharat
+2. mastan
+3. Gannesh
+4. Shanmukh
+
+## unordered List
+- Bharat
+- mastan
+- Gannesh
+- Shanmukh
